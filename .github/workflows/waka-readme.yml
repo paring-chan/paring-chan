@@ -1,7 +1,7 @@
 name: Waka Readme
 
 permissions:
-  content: write
+  contents: write
 
 on:
   # for manual workflow trigger
