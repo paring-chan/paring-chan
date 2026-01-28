@@ -1,5 +1,7 @@
 ㅇ...
 
+[[forgejo]](https://git.pari.ng/paring) [[sourcehut]](https://git.sr.ht/~paring)
+
 ## Stats
 
 <!--START_SECTION:waka-->
