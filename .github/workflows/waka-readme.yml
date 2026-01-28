@@ -19,3 +19,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.pari.ng/api
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          LANG_COUNT: 10
+          
