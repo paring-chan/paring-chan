@@ -2,6 +2,8 @@
 
 [[forgejo]](https://git.pari.ng/paring) [[sourcehut]](https://git.sr.ht/~paring)
 
+[[스타보드]](https://discord.com/oauth2/authorize?client_id=1457629862872485971)
+
 ## Stats
 
 <!--START_SECTION:waka-->
